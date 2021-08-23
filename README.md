@@ -168,7 +168,7 @@
 
 <hr/>
 
-* Credit: [SreyaFrancis](https://github.com/sreyafrancis)
+* Credit: [Francis](https://github.com/sreyafrancis)
 * Last Edited on: 23/08/2021
 
 
