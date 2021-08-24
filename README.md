@@ -37,10 +37,10 @@
 |  |Tutorial to the team|<details><summary>YOLO execution speed improvement - optimization steps</summary><p>YOLO execution speed improvement - optimization steps as well as issues faced  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/20171120_YOLOExecutionSpeedImprovement.pdf) |
 |  |Tutorial to the team|<details><summary>Input data size to Accuracy relation analysis  </summary><p>  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/20171130_ReducedInputSize_Experiment.pdf) |
 |  |Tutorial to the team|<details><summary>Improve Darknet Software by introducing validation error  </summary><p>  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/20171227_ValidationLoss.pdf) |
-|  |Tutorial to the team|<details><summary>  </summary><p>  </p></details> |[Slides]() |
-|  |Tutorial to the team|<details><summary>  </summary><p>  </p></details> |[Slides]() |
-|  |Tutorial to the team|<details><summary>  </summary><p>  </p></details> |[Slides]() |
-|  |Tutorial to the team|<details><summary>  </summary><p>  </p></details> |[Slides]() |
+|  |Tutorial to the team|<details><summary>SSD MobileNet Vs YOLO - An Analysis </summary><p>  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/SSD%20with%20MobileNets.pdf) |
+|  |Tutorial to the team|<details><summary>Capsule Network</summary><p>  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/CapsuleNetworks-converted.pdf) |
+|  |Tutorial to the team|<details><summary>Using Simulation and Domain Adaptation to Improve Deep Robotic Vision</summary><p>  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/DeepRoboticVision.pdf) |
+|  |Tutorial to the team|<details><summary>Effects of Augmentation and Incremental Data Addition</summary><p>  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/Increment_experiment.pdf) |
 
 
 ## 🛠️ My Skills
