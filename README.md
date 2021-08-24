@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Federated+Learning;Causal+Machine+Learning;MedicalAI%20|%20Blockchain%20|%20NLP%20;Project%20Management;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"> I am a masters student in Machine Learning at MILA, University Of Montreal. I like to Code, Design, Innovate and Experiment. I love taking up new challenges and learning new skills. I enjoy meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center"> I am a final year graduate student in Machine Learning at MILA, University Of Montreal. I love to teach, innovate . I love taking up new challenges and learning new skills. I enjoy meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sreyafrancis&label=Profile%20views&color=0e75b6&style=plastic" alt="sreyafrancis" /> </p>
 
@@ -51,23 +51,13 @@
 |2021|`Microsoft Research Diversity Award`|
 
 
-
-### 🔥 Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreyafrancis&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sreya's Github Stats"></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
-
-
-
 ## 📊 Github Stats (Expand to View) 
 
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sreya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sreyafrancis&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreyafrancis&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sreya's Github Stats"></p>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreyafrancis&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sreyafrancis" height="192px"/>
@@ -82,8 +72,15 @@
   <br/>
    <a href="https://github.com/sreyafrancis"><img alt="Sreya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreyafrancis&custom_title=Sreya%20Francis's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
+	<summary><b>🔥 GitHub streak stats </b></summary>
+  <br/>
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sreyafrancis&theme=algolia" alt="sreyafrancis"  /></p>
+<br/>
 </details>
+
+
+	
+	
 
 <br/>
 
