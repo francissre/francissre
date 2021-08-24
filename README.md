@@ -39,6 +39,20 @@
 |  |Tutorial to the team|<details><summary>Using Simulation and Domain Adaptation to Improve Deep Robotic Vision</summary><p>  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/DeepRoboticVision.pdf) |
 |  |Tutorial to the team|<details><summary>Effects of Augmentation and Incremental Data Addition</summary><p>  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/Increment_experiment.pdf) |
 
+### ⚡ Awards and Scholarships
+
+| Year | Award/Scholarship | 
+|---|--|
+|2010|`Indian Certificate of Secondary Education (ICSE) Topper Award`|
+|2012|`Top 0.1% in ALL India Entrance Exam`|
+|2018|`Panasonic HAG Project Excellence Award`|
+|2019|`Most innovative Project Lead Pana HAG`|
+|2019-2021|`UdeM Fee exemption scholarship from MILA`|
+|2020|`Microsoft Research Diversity Award`|
+|2021|`Microsoft Research Diversity Award`|
+
+
+
 ### 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreyafrancis&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sreya's Github Stats"></p>
