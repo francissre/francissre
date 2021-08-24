@@ -60,7 +60,7 @@
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreyafrancis&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sreya's Github Stats"></p>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreyafrancis&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sreyafrancis" height="192px"/>
+	 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreyafrancis&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sreyafrancis" height="192px"/></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
