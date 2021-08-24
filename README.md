@@ -14,7 +14,7 @@
 
 
 
-## Research and Talks given during my time at MILA
+### 📕 Research and Talks given during my time at MILA
 
 | Date | Venue | Title | Reference |
 |---|--|--|----|
@@ -26,7 +26,7 @@
 |10/17/2019|2019 International Conference on Distributed Computing and Knowledge Discovery (CyberC)|<details><summary>Record and Reward Federated Learning Contributions with Blockchain</summary><p>Although Federated Learning allows for participants to contribute their local data without it being revealed, it faces issues in data security and in accurately paying participants for quality data contributions. In this paper, we propose an EOS Blockchain design and workflow to establish data security, a novel validation error based metric upon which we qualify gradient uploads for payment, and implement a small example of our blockchain Federated Learning model to analyze its performance.</p></details> | [Code](https://github.com/sreyafrancis/BlockchainForFederatedLearning) [Paper](https://ieeexplore.ieee.org/abstract/document/8945913) [Slides](https://github.com/sreyafrancis/BlockchainForFederatedLearning/blob/master/IFT6055_Blockchain%2BFL/BlockchainForFederatedLearning.pdf)|
 | 7/15/2019| Mila Medical Reading Group |  <details><summary> Estimating Causal Effects from High-Dimensional Observational Data in Healthcare </summary><p>Everyone wants to make better decisions. The impact of a decision on an outcome of interest is called a causal effect, and is traditionally estimated by performing randomized experiments. However, large data sources such as electronic medical records present opportunities to study causal effects of interventions that are difficult to evaluate through experiments. One example is the management of septic patients in the ICU. This typically involves performing several interventions in sequence, the choice of one depending on the outcome of others. Successfully evaluating the effect of these choices depends on strong assumptions, such as having adjusted for all confounding variables. While many argue that having high-dimensional data increases the likelihood of this assumption being true, it also introduces new challenges: the more variables we use for estimating effects, the less likely that patients who received different treatments are similar in all of them. In this talk, we will discuss causal effect estimation and treatment group overlap. We will also discuss the potential outcomes framework, classical methods for estimating causal effects, as well as new ones, tailored for working with large datasets.</p></details> | [Talk](https://github.com/ieee8023/medical-reading-group) [Slides](https://github.com/ieee8023/medical-reading-group/blob/master/slides/SreyaFrancis-CausalEffectEstimationInHealthcare.pdf) |
 
-## Research and Talks given during my time at Panasonic AI Research Lab @Tata Elxsi
+### 📕 Research and Talks given during my time at Panasonic AI Research Lab @Tata Elxsi
 
 | Date | Venue | Title | Reference |
 |---|--|--|----|
@@ -39,7 +39,7 @@
 |  |Tutorial to the team|<details><summary>Using Simulation and Domain Adaptation to Improve Deep Robotic Vision</summary><p>  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/DeepRoboticVision.pdf) |
 |  |Tutorial to the team|<details><summary>Effects of Augmentation and Incremental Data Addition</summary><p>  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/Increment_experiment.pdf) |
 
-## 🔥 Streak Stats
+### 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sreyafrancis&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sreya's Github Stats"></p>
 
