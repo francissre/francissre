@@ -33,10 +33,10 @@
 
 | Date | Venue | Title | Reference |
 |---|--|--|----|
-|  |Tutorial to the team|<details><summary>  </summary><p>  </p></details> |[Slides]() |
-|  |Tutorial to the team|<details><summary>  </summary><p>  </p></details> |[Slides]() |
-|  |Tutorial to the team|<details><summary>  </summary><p>  </p></details> |[Slides]() |
-|  |Tutorial to the team|<details><summary>  </summary><p>  </p></details> |[Slides]() |
+|  |Tutorial to the team|<details><summary>Tiny YOLO V1 performance analysis-Ways to improve execution speed in flight kit GPU  </summary><p>Analysis of ways to reduce execution speed of Tiny YOLO V1 in flightkit GPU with an in depth PrecisionLoss comparison of Tiny YOLO V1 32 to that of 16Bit.</p></details>|[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/20171113_32Vs16Bit_PrecisionLoss_comparison.pdf) |
+|  |Tutorial to the team|<details><summary>YOLO execution speed improvement - optimization steps</summary><p>YOLO execution speed improvement - optimization steps as well as issues faced  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/20171120_YOLOExecutionSpeedImprovement.pdf) |
+|  |Tutorial to the team|<details><summary>Input data size to Accuracy relation analysis  </summary><p>  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/20171130_ReducedInputSize_Experiment.pdf) |
+|  |Tutorial to the team|<details><summary>Improve Darknet Software by introducing validation error  </summary><p>  </p></details> |[Slides](https://github.com/francissre/francissre/blob/main/Panasonic/20171227_ValidationLoss.pdf) |
 |  |Tutorial to the team|<details><summary>  </summary><p>  </p></details> |[Slides]() |
 |  |Tutorial to the team|<details><summary>  </summary><p>  </p></details> |[Slides]() |
 |  |Tutorial to the team|<details><summary>  </summary><p>  </p></details> |[Slides]() |
