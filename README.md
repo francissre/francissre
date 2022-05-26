@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Federated+Learning;Causal+Machine+Learning;MedicalAI%20|%20Blockchain%20|%20NLP%20;Project%20Management;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"> I am a final year graduate student in Machine Learning at MILA, University Of Montreal. I love to teach, innovate and build things that benefit humanity. I love taking up new challenges and learning new skills. I enjoy meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center"> I am a Machine Learning Reseacher at MILA, Quebec AI Institute. I love to teach, innovate and build things that benefit humanity. I love taking up new challenges and learning new skills. I enjoy meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sreyafrancis&label=Profile%20views&color=0e75b6&style=plastic" alt="sreyafrancis" /> </p>
 
